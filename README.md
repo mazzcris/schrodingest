@@ -1,4 +1,4 @@
-# schrodingest
+# Schrödingest
 The (possibily definitive) non-deterministic **End-to-End** testing framework.
 
 ## How to use for TDD:
